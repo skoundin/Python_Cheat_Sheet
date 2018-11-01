@@ -1,1 +1,1 @@
-Repository to learn more Pythonic code. Will keep updating this regularly.
+ChetaSheets for remebering Python and Pracisting Pythonic Code.
